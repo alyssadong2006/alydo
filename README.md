@@ -14,4 +14,3 @@
 [![website](./images/python.svg)](https://www.python.org/)
 [![website](./images/java.svg)](https://www.java.com/)
 [![website](./images/VScode.svg)](https://code.visualstudio.com/)
-[![website](./images/godot.svg)](https://godotengine.org/)
