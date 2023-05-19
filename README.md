@@ -11,7 +11,7 @@
 [![website](./images/instagram.svg)](https://www.instagram.com/alyssa_dong_0527/)
 
 ### Tools:
-<img align="left" alt="Python" width="26px" src="./image/python.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="./images/java.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./images/VScode.svg" style="padding-right:10px;" />
-
+[![website](./images/python.svg)](https://www.python.org/)
+[![website](./images/java.svg)](https://www.java.com/)
+[![website](./images/VScode.svg)](https://code.visualstudio.com/)
+[![website](./images/godot.svg)](https://godotengine.org/)
