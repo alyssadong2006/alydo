@@ -12,7 +12,6 @@
 
 ### Tools:
 <img align="left" alt="Python" width="26px" src="./image/python.svg" style="padding-right:10px;" />
-<img align="left" alt="Godot" width="26px" src="./image/GD.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./images/java.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./images/VS.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./images/VScode.svg" style="padding-right:10px;" />
 
