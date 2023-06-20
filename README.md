@@ -1,7 +1,7 @@
 ### Hi there, I'm Alyssa Dong 🤗
 
-### I'm a Beginner Developer 🌱
-- ✍️Still Learning more about Python, JavaScript, CSS, and HTML
+### I'm an Active Developer 🌱
+- ✍️Excited to learn more about Python, JavaScript, CSS, and HTML
 - 🎓Academics: High School Student
 - 💻Interests: In almost everything when it comes to coding and art
 - 💪Goals: To stay healthy and continue exploring more areas of coding
