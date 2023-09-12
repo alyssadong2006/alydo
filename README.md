@@ -1,6 +1,6 @@
 ### Hi there, I'm Alyssa Dong 🤗
 
-### I'm an Active Developer 🌱
+### I'm an Active Developer, just not on Github 🌱
 - ✍️Excited to learn more about Python, JavaScript, CSS, and HTML
 - 🎓Academics: High School Student
 - 💻Interests: In almost everything when it comes to coding and art
