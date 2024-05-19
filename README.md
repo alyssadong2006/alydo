@@ -6,6 +6,7 @@
 - 💻Interests: Coding + art
 - 💪Goals: Live, Laugh, ERROR 403
 - 🐳Fun Fact: I don't eat fish
+- [![website](My GitHub Page)](https://alyssadong2006.github.io/index.html)
 
 ### Connect with me:
 [![website](./images/instagram.svg)](https://www.instagram.com/alyssa_dong_0527/)
